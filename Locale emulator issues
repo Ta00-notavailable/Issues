@@ -1,0 +1,37 @@
+---------------------------
+Locale Emulator Version 2.4.1.0
+---------------------------
+Error Number: 0
+
+Commands: SYSTEM_REPORT
+
+
+
+Microsoft Windows NT 10.0.19042.0 x64
+
+NTDLL.DLL: 10.0.19041.964
+
+KERNELBASE.DLL: 10.0.19041.964
+
+KERNEL32.DLL: 10.0.19041.928
+
+USER32.DLL: 10.0.19041.906
+
+GDI32.DLL: 10.0.19041.746
+
+
+
+If you have any antivirus software running, please turn it off and try again.
+
+If this window still shows, try go to Safe Mode and drag the application executable onto LEProc.exe.
+
+If you have tried all above but none of them works, feel free to submit an issue at
+
+https://github.com/xupefei/Locale-Emulator/issues.
+
+
+
+
+
+
+
